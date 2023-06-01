@@ -5,6 +5,8 @@ The Self-Employed Employee Tracker database is a comprehensive solution for mana
 
 
 ## Getting Started
+![image](https://github.com/LukeNukem11/self-employed/assets/118786612/5b83249a-b9ee-4282-ac0a-656ab2878e95)
+
 
 To get started with the Self-Employed Employee Tracker database, you can follow these steps:
 
